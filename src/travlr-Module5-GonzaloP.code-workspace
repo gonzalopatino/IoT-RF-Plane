@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../travlr-Module5-GonzaloP"
+		},
+		{
+			"path": "../../cs465-fullstack"
+		},
+		{
+			"path": "../../student_course_management_app"
+		},
+		{
+			"name": "iot_rf_plane_fc",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
